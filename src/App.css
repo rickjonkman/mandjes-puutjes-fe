@@ -1,0 +1,42 @@
+
+/*/////////////// TYPOGRAPHY //////////////////*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,400;6..12,500;6..12,600;6..12,700&family=Roboto:wght@100;300;400;500&display=swap');
+
+
+
+/*/////////////// COLORS //////////////////*/
+
+/*/ Main colors /*/
+:root {
+    --white-color: #F2F2F2;
+    --background-blocks: #E2E8EE;
+    --text-icons-white: #FFF;
+    --light-green-gray: #A8C2C6;
+    --dark-green-gray: #182731;
+    --text-icons-dark: #222222;
+}
+
+/*/ Colors other-pages /*/
+:root {
+    --pink-cheap: #E54F5A;
+}
+
+/*/ Colors groceries-pages /*/
+:root {
+    --lime: #48E5C2;
+}
+
+/*/ Colors recipes-pages /*/
+:root {
+    --purple: #4A2F8E;
+}
+
+/*/ Colors personal-pages /*/
+:root {
+    --candy-pink: #E5516F;
+}
+
+/*/ Colors calendar-pages /*/
+:root {
+    --yellow-color: #EBE21D;
+}
